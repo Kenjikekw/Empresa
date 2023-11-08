@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\bin\Debug\net7.0\la.exe
+C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\bin\Debug\net7.0\la.deps.json
+C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\bin\Debug\net7.0\la.runtimeconfig.json
+C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\bin\Debug\net7.0\la.dll
+C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\bin\Debug\net7.0\la.pdb
+C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\obj\Debug\net7.0\la.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\obj\Debug\net7.0\la.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\obj\Debug\net7.0\la.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\obj\Debug\net7.0\la.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\obj\Debug\net7.0\la.dll
+C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\obj\Debug\net7.0\refint\la.dll
+C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\obj\Debug\net7.0\la.pdb
+C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\obj\Debug\net7.0\la.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\obj\Debug\net7.0\ref\la.dll

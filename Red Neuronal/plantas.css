@@ -1,0 +1,49 @@
+.div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.my_button {
+    background-color: rgb(8, 161, 0);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    height: 30px;
+    width: 150px;
+    margin-top: 10px;
+    font-size: 17px;
+}
+
+.my_button:hover {
+    background-color: #073e04;
+}
+
+.my_button:active {
+    background-color: #67ca5e;
+}
+
+h2 {
+    font-family: system-ui;
+    color: forestgreen;
+    font-size: 30px;
+}
+
+h4 {
+    font-size: 20px;
+    font-family: sans-serif;
+    margin: 10px 0
+}
+
+.div div {
+    padding: 20px 0;
+}
+
+input {
+    width: 200px;
+}
+
+h3 {
+    font-size: 30px;
+}

@@ -12,3 +12,7 @@ C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\obj\Debug\net7.0\refint\la.dl
 C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\obj\Debug\net7.0\la.pdb
 C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\obj\Debug\net7.0\la.genruntimeconfig.cache
 C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\obj\Debug\net7.0\ref\la.dll
+C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\bin\Debug\net7.0\Faker.dll
+C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\obj\Debug\net7.0\la.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\obj\Debug\net7.0\la.csproj.CopyComplete
+C:\Users\Usuario\Documents\Empresa\Red Neuronal\la\bin\Debug\net7.0\Newtonsoft.Json.dll

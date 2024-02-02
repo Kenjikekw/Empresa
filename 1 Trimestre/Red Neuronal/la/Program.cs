@@ -1,5 +1,5 @@
 ﻿
-
+/*
 using Newtonsoft.Json;
 
 List<planta> facturas = new List<planta>();
@@ -68,3 +68,4 @@ List<planta> facturas = new List<planta>();
             Console.WriteLine("('"+fecha+"',"+cif+","+nombre+","+importe+","+importe_iva+","+moneda+",'"+fecha_cobro+"',"+estado+")");
         }
     }
+*/
